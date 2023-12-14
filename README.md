@@ -1,4 +1,6 @@
-# 💫 About Me:
+<p>
+  <h1 align="center"><b>Hello there, I'm Moete Khemissi 👋</b></h1>
+</p>
 🤖 Crafting an Algorithmic Life Assistant to Optimize Every Routine,<br>📊 Crunching numbers to turn everyday chaos into organized mathematical symphonies,<br>🧪 Unleashing my inner perfectionist through QA testing to make things sparkle,<br>🚀 Constantly seeking innovative ways to save time and maximize efficiency,<br>🌍 Dream collaboration: Cook up the craziest, most genius automation project ever!
 
 
